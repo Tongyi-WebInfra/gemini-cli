@@ -7,6 +7,8 @@
 This repository contains the Gemini CLI, a command-line AI workflow tool that connects to your
 tools, understands your code and accelerates your workflows.
 
+Powered by Qwen-Coder
+
 With the Gemini CLI you can:
 
 - Query and edit large codebases in and beyond Gemini's 1M token context window.
